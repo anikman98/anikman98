@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anikman98
 - 👀 I’m interested in learning new technologies and implementing them
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning React.js with Laravel using Inertia
 - 📫 How to reach me - Instagram : @anikmandal98
                        
 
