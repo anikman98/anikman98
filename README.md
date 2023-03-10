@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anikman98
 - 👀 I’m interested in learning new technologies and implementing them
-- 🌱 I’m working on React.js and ASP.NET Core
+- 🌱 I’m working on MERN stack
 - 📫 How to reach me - 
 -                       LinkedIn : https://www.linkedin.com/in/anikman98/
 -                       Instagram : @anikmandal98
